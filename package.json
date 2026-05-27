@@ -1,0 +1,14 @@
+{
+  "name": "improved-succotash",
+  "version": "1.0.0",
+  "description": "A simple JavaScript web application",
+  "main": "script.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "http-server -p 8000"
+  },
+  "keywords": ["web", "javascript", "app"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
